@@ -8,6 +8,6 @@ Scott I. Adamson, Lijun Zhan, Brenton R. Graveley*
 Department of Genetics and Genome Sciences, Institute for Systems Genomics, UConn Health, Farmington, CT  
 *Correspondence graveley@uchc.edu  
 
-Questions about this github?  
+Questions about this repo, analysis nitty gritty or any pre-processing data not shown?  
 email: adamson@uchc.edu
 
